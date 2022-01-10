@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "easyantispam": "^2.0.1"
+  },
+  "name": "antispam",
+  "version": "1.0.0",
+  "description": "Simple AntiSpam Discord Bot // Using the https://npm.io/package/easyantispam package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EncryptedServices/AntiSpam.git"
+  },
+  "keywords": [
+    "antispam"
+  ],
+  "author": "encryptedservices",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EncryptedServices/AntiSpam/issues"
+  },
+  "homepage": "https://github.com/EncryptedServices/AntiSpam#readme"
+}
